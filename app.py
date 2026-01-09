@@ -7,7 +7,7 @@ app = Flask(__name__)
 PORT = int(os.environ.get("PORT", 5000))
 IMAGE_URL = os.environ.get(
     "IMAGE_URL",
-    "https://nomprenom-tp-s3.s3.amazonaws.com/logo.png"
+    "https://<nomprenom-tp-s3>.s3.amazonaws.com/<nom-img.png>"
 )
 
 # 📌 Route principale
