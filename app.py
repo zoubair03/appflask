@@ -82,7 +82,9 @@ def generate_html_page():
 
     <body>
       <div class="container">
-        <h1>🐍 Application Python Flask</h1>
+        <h1>🐍 Application Python Flask 🐍</h1>
+        <h2>Aujourd’hui un TP</h2>
+        <h2>🚀 demain ton projet peut toucher le monde entier 🚀</h2>
 
         <p>
           Cette application est déployée sur une instance
